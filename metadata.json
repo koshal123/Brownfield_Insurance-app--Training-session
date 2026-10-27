@@ -1,0 +1,6 @@
+{
+  "name": "Contoso Insurance Operations & PRD Engine",
+  "description": "Production-grade Insurance Operations platform and 100% gap-closed, deployable-ready PRD specification engine for Contoso General Insurance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
